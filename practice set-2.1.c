@@ -7,7 +7,7 @@ int main() {
   // char dt = '21 dec 2022';
     printf("the value is %d\n",b);
     printf("the value is %d\n",v);
-    // printf("the value is %c",char);
+    // printf("the value is %c",dt);
 
     return 0;
 }
